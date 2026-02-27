@@ -1,0 +1,20 @@
+.pokeball {
+    -fx-cursor: hand;
+}
+
+.pokeball:hover {
+    -fx-rotate: 15;
+    -fx-cursor: hand;
+}
+
+.cBoarder {
+    -fx-border-color: rgba(14, 13, 13, 0.64);
+    -fx-border-width: 4;
+    -fx-border-style: solid;
+    -fx-background-color: white;
+}
+
+.label {
+    -fx-font-family: "ArcadeClassic";
+    -fx-font-size: 17px;
+}
